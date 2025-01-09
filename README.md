@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ikram
 - 👀 I’m interested in web development and web design
-- 🌱 I’m currently learning CSS and Ruby
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on intermediate projects  
 - 📫 You can reach me at ikramlm21@gmail.com
 
